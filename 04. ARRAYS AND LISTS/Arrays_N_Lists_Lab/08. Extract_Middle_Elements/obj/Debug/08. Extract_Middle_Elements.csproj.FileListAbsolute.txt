@@ -1,0 +1,7 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\bin\Debug\_08.Extract_Middle_Elements.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\bin\Debug\_08.Extract_Middle_Elements.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\bin\Debug\_08.Extract_Middle_Elements.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\obj\Debug\08. Extract_Middle_Elements.csprojAssemblyReference.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\obj\Debug\08. Extract_Middle_Elements.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\obj\Debug\_08.Extract_Middle_Elements.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\08. Extract_Middle_Elements\obj\Debug\_08.Extract_Middle_Elements.pdb

@@ -1,0 +1,7 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\bin\Debug\_06.Reverse_Array_of_Strings.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\obj\Debug\06. Reverse_Array_of_Strings.csprojAssemblyReference.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\obj\Debug\06. Reverse_Array_of_Strings.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\obj\Debug\_06.Reverse_Array_of_Strings.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\06. Reverse_Array_of_Strings\obj\Debug\_06.Reverse_Array_of_Strings.pdb

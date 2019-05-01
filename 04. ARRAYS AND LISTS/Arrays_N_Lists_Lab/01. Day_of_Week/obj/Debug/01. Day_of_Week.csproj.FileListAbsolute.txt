@@ -1,0 +1,6 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\bin\Debug\_01.Day_of_Week.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\bin\Debug\_01.Day_of_Week.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\bin\Debug\_01.Day_of_Week.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\obj\Debug\01. Day_of_Week.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\obj\Debug\_01.Day_of_Week.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\01. Day_of_Week\obj\Debug\_01.Day_of_Week.pdb

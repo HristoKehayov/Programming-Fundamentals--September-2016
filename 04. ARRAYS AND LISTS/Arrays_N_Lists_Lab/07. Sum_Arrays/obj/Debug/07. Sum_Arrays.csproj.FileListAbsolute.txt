@@ -1,0 +1,6 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\bin\Debug\_07.Sum_Arrays.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\bin\Debug\_07.Sum_Arrays.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\bin\Debug\_07.Sum_Arrays.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\obj\Debug\07. Sum_Arrays.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\obj\Debug\_07.Sum_Arrays.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\07. Sum_Arrays\obj\Debug\_07.Sum_Arrays.pdb

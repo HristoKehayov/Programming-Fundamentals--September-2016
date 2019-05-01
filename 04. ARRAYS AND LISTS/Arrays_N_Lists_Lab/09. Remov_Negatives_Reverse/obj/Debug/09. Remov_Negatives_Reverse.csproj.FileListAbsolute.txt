@@ -1,0 +1,7 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\bin\Debug\_09.Remov_Negatives_Reverse.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\bin\Debug\_09.Remov_Negatives_Reverse.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\bin\Debug\_09.Remov_Negatives_Reverse.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\obj\Debug\09. Remov_Negatives_Reverse.csprojAssemblyReference.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\obj\Debug\09. Remov_Negatives_Reverse.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\obj\Debug\_09.Remov_Negatives_Reverse.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\04. ARRAYS AND LISTS\Arrays_N_Lists_Lab\09. Remov_Negatives_Reverse\obj\Debug\_09.Remov_Negatives_Reverse.pdb
