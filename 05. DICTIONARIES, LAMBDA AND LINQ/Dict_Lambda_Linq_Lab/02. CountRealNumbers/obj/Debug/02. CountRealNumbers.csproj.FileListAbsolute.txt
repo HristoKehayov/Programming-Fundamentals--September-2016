@@ -1,0 +1,7 @@
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\bin\Debug\_02.CountRealNumbers.exe.config
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\bin\Debug\_02.CountRealNumbers.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\bin\Debug\_02.CountRealNumbers.pdb
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\obj\Debug\02. CountRealNumbers.csprojAssemblyReference.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\obj\Debug\02. CountRealNumbers.csproj.CoreCompileInputs.cache
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\obj\Debug\_02.CountRealNumbers.exe
+U:\Programming-Stuffs\C#\SoftUni Courses\02. Tech Module\Programming Fundamentals\05. DICTIONARIES, LAMBDA AND LINQ\Dict_Lambda_Linq_Lab\02. CountRealNumbers\obj\Debug\_02.CountRealNumbers.pdb
